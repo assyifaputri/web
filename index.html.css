@@ -1,0 +1,21 @@
+* {margin: 0; padding: 0;}
+.wrapper {width: 80%; margin: 0 auto;}
+.call {background: #000; color: #fff}
+.call ul {list-style: none; }
+.call ul li {float: left; margin: 0px; padding: 20px}
+.call ul li a {margin: 0px; padding: 10px; text-decoration: none; color: #ddd}
+.call ul li a:hover {color: #fff}
+.clear {clear: both;}
+.header {background: #fff; padding: 0px; margin: 0px;}
+.img1 {height: 100px; width: 100px; float: left;}
+.nama {float: left; padding-top: 35px; } .nama a {text-decoration: none;color: #424b4c}
+.header ul {list-style: none; margin: 0px; padding:0px;}
+.header ul li {position: relative; float: left;padding-left: 3px ; display: block; }
+.header ul li a {padding: 35px 13px; display: block; text-decoration: none; color: #000; text-align: left; background: white;}
+.header ul li a:hover {background: #ddd; color: #000}
+.header ul ul {position: absolute; visibility: hidden;opacity: 0;}
+.header ul ul li {width: 250px;}
+.header ul ul li a {padding: 15px}
+.header li:hover > ul {opacity: 1; visibility: visible;}
+.img2 {width: 100%; padding: 0px; margin: 0px}
+.footer {background: #000; color: #fff}
